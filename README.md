@@ -35,8 +35,8 @@ NanoTune Toolbox is a lightweight, 100% offline Windows companion utility develo
 
 * **Shared Config & Cache:** `%APPDATA%\NanoTune\config.json` and `%APPDATA%\NanoTune\library_cache.json`
 * **Uninstall:** Remove anytime via Windows **Installed Apps**.
-* **Main Desktop Player:** [NanoTune for PC](https://github.com)
-* **Android Port:** [NanoTune-Mobile](https://github.com-Mobile)
+* **Main Desktop Player:** [NanoTune for PC](https://github.com/mirakwgnr/nanotune)
+* **Android Port:** [NanoTune-Mobile](https://github.com/mirakwgnr/nanotune-mobile)
 
 ## Privacy & License
 
