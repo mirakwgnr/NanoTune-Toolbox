@@ -1,0 +1,36 @@
+NANOTUNE — SOFTWARE LICENSE & END USER AGREEMENT
+Copyright (c) 2026 mirakwgnr. Developed for the NanoTune Project.
+
+This software is licensed under the terms of the GNU General Public License,
+Version 2.0 (GPL-2.0). By installing or using NanoTune, you agree to the
+following terms:
+
+1. LICENSE GRANT (GPL-2.0)
+You are free to run, copy, study, modify, and redistribute NanoTune in binary
+or source form under the GNU General Public License v2.0. Any modified or
+derivative distribution must:
+  a) Retain clear attribution to the original author (mirakwgnr) and mark any
+     modified files with the nature and date of the changes.
+  b) Be licensed as a whole under GPL-2.0 with corresponding source code made
+     available at no charge to recipients.
+
+2. PRIVACY & LOCAL MEDIA OWNERSHIP
+NanoTune operates strictly offline as a local desktop audio player. It collects
+no telemetry, analytics, or personal data and makes no external network calls.
+You are solely responsible for the audio, artwork, and lyric files you load
+into the application.
+
+3. THIRD-PARTY COMPONENTS
+NanoTune incorporates open-source libraries including Qt / PySide6, FFmpeg /
+PyAV, Mutagen, Pillow, and NumPy. Each component remains subject to its
+respective open-source license.
+
+4. DISCLAIMER OF WARRANTY & LIMITATION OF LIABILITY
+NANOTUNE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, OR NON-INFRINGEMENT. IN NO EVENT SHALL THE DEVELOPER
+(mirakwgnr) OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, OR
+CONSEQUENTIAL DAMAGES ARISING FROM THE USE OR INABILITY TO USE THIS SOFTWARE,
+INCLUDING DATA LOSS OR HARDWARE/AUDIO DRIVER ISSUES.
+
+Full GPL-2.0 text: https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
